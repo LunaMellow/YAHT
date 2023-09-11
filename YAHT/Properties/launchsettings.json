@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "YAHT (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "YAHT (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
